@@ -1,6 +1,6 @@
 # Test Application
 
-An application I used to get my feet wet in Flutter/Dart development
+An application I created to get my feet wet in Flutter/Dart development
 
 ## Getting Started
 
